@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\NS.EMS.Data\NS.EMS.Data.csproj" />
+    <ProjectReference Include="..\NS.EMS.Model\NS.EMS.Model.csproj" />
+  </ItemGroup>
+
+</Project>
